@@ -1,0 +1,19 @@
+{
+  "name": "mandarin-pay-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krolov/mandarin-pay-cli.git"
+  },
+  "author": "krolov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krolov/mandarin-pay-cli/issues"
+  },
+  "homepage": "https://github.com/krolov/mandarin-pay-cli#readme"
+}
